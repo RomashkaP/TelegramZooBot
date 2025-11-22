@@ -1,2 +1,9 @@
 feedback
 .env
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+.idea/
